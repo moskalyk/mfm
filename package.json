@@ -1,0 +1,24 @@
+{
+  "name": "mfm",
+  "version": "0.0.4",
+  "description": "file formate for data and code, applied to naming",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/moskalyk/mfm"
+  },
+  "keywords": [
+    "mixed",
+    "naming",
+    "hex",
+    "mailbox",
+    "credential",
+    "certificates",
+    "pdf"
+  ],
+  "author": "Ṅero",
+  "license": "MIT"
+}
